@@ -34,7 +34,7 @@ Funcionalities:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/nayak-nirmalya/twitter_clone_flutter.git
+git clone https://github.com/VEDASHREE-123/Twitter_clone.git
 ```
 
 ## Running Project
